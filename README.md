@@ -36,7 +36,7 @@ The goal is to recreate the order summary card while respecting the original des
 ## Installation
 1. Clone the repository
 ```bash
-   git clone [https://github.com/tu-usuario/order-summary-component.git](https://github.com/tu-usuario/order-summary-component.git)
+   git clone [https://github.com/tu-usuario/order-summary-component.git](https://github.com/J4yFerdinand/order-summary-component.git)
 ```
 2. Open _index.html_ in your browser, or serve the project with any static server.
 
